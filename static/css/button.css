@@ -1,0 +1,14 @@
+.button a:link,
+.button a:visited,
+.button a:hover,
+.button a:active {
+  display: block;
+  font-family: "Marriweather", serif;
+  font-size: 35px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+  background-color: black;
+  line-height: 50px;
+  padding: 14px 33px;
+}
